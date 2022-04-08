@@ -1,0 +1,5 @@
+package net.java.sptringboot.exception;
+
+public class ResourceNotFoundException {
+
+}

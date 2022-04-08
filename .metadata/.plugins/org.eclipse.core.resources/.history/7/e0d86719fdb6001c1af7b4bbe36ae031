@@ -1,0 +1,5 @@
+package net.java.sptringboot.security;
+
+public class WebSecurityConfig {
+
+}

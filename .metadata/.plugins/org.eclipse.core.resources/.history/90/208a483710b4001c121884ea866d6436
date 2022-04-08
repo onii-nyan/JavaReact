@@ -1,0 +1,5 @@
+package net.java.sptringboot.repository;
+
+public interface UserRepository {
+
+}

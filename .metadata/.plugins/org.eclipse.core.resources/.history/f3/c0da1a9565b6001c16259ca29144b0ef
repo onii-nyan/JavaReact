@@ -1,0 +1,5 @@
+package net.java.sptringboot.controller;
+
+public class UserController {
+
+}
